@@ -1,64 +1,49 @@
 <div align="center">
 
-# Hey, I'm Cristhian Fonseca
+# Cristhian Fonseca
 
-**Technical Lead & AI Builder**
+**Tech Lead · AI Orchestrator**
 
-I ship FinTech platforms at scale and build AI automations you can steal.
+I design multi-agent systems that ship production software, and I make sure the technology serves the business, not the other way around.
 
 [![Website](https://img.shields.io/badge/crisfon6.com-0f172a?style=for-the-badge&logo=google-chrome&logoColor=3b82f6)](https://crisfon6.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crisfon6)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/crisfon6)
-[![Newsletter](https://img.shields.io/badge/The_Builder's_Blueprint-3b82f6?style=for-the-badge&logo=substack&logoColor=white)](https://crisfon6.beehiiv.com)
+[![PowerAI](https://img.shields.io/badge/PowerAI_newsletter-3b82f6?style=for-the-badge&logo=substack&logoColor=white)](https://crisfon6.com/newsletter)
 
 </div>
 
 ---
 
-### What I do
+### What I'm building
 
-- Build **cloud-native FinTech platforms** serving millions of users on AWS
-- Design and deploy **AI automation pipelines** with Claude API, MCP agents, and serverless infra
-- Publish a **free automation template every week** with architecture diagrams, cost breakdowns, and working code
+- **Aphrodite** — AI companion marketplace that fights loneliness with an AI that actually knows each user. Solo founder & tech lead. 3,000+ automated tests · 17 s production rollback · ~US$86/month infrastructure. Built with a multi-agent engineering org I designed. _(private)_
+- **Prosperas** — Technical Lead. Digital credit marketplace inside a telecom super app: ~100K monthly active users in a 45M-user ecosystem. AWS, fully codified with CDK.
 
-### Tech stack
+### How I work: an engineering org made of agents
 
-```
-Cloud & DevOps    AWS CDK, Lambda, EC2, RDS, S3, Cognito, ElastiCache, CloudWatch, CI/CD
-AI & Automation   Claude API, MCP Protocol, LLM Orchestration, n8n, Agentic Workflows
-Full Stack        Python, TypeScript, Java, Angular, React, Next.js, FastAPI, Spring Boot
-Data              PostgreSQL, DynamoDB, Oracle, Redis, Query Optimization (2M+ records)
-```
+- **Adversarial review panel**: two blind judges review every branch, a synthesizer confirms findings, a separate fixer applies only confirmed defects — loop until zero confirmed criticals.
+- **Autonomous backlog runner**: pulls issues from Linear, works them in isolated workspaces. First full run: 13 issues → 11 merged PRs in one day.
+- **MCP over production data**: an MCP server that lets the business query real data — I traced a 98.4% undercount and fixed it; 30+ attack shapes tested, 0 leaks.
 
-### Numbers
+### Receipts
 
 | | |
 |---|---|
-| **4+** years building production software | **2M+** records optimized at scale |
-| **10+** cloud architectures deployed | **Millions** of users served in FinTech |
+| **−43%** AWS bill after a cost audit | **30×** faster export (638K rows in 21 s) |
+| **287.89 MB → 6.98 MB** Redis after an incident fix | **83.4% → 100%** identity match rate |
+| **5+ years** shipping to production | **Anthropic certified** — Claude Code in Action |
 
-### Currently building
+### Open source
 
-- **[crisfon6.com](https://crisfon6.com)** — Personal site and automation hub (Next.js + Vercel)
-- **Automation of the Week** — Free weekly AI templates with full deployment guides
-- **The Builder's Blueprint** — Newsletter for engineers who want to ship AI faster
+- [ai-org-agents](https://github.com/Crisfon6-dev/ai-org-agents) — config-driven AI team (Founder, CTO, Marketer, PO, Coder) with shared Obsidian memory and adaptive model routing.
+- [crisfon6-website](https://github.com/Crisfon6-dev/crisfon6-website) — my portfolio: Next.js 16, bilingual, verifiable numbers.
 
-### Featured automation templates
+### Stack
 
-| Template | Infra Cost | Time Saved |
-|---|---|---|
-| AI Document Processor (Claude + Lambda + S3) | $12/mo | ~15 hrs/week |
-| Slack to Notion Meeting Summarizer | $5/mo | ~8 hrs/week |
-| Automated Lead Scoring Pipeline | $18/mo | ~10 hrs/week |
-| MCP Agent: Code Review Assistant | $8/mo | ~12 hrs/week |
+```
+AI      Claude API · Claude Code · MCP · multi-agent orchestration · pgvector/RAG
+Cloud   AWS (CDK, Lambda, RDS, ElastiCache, Cognito, S3) · Docker · CI/CD
+Code    Python/FastAPI · TypeScript/Next.js · Angular · Java/Spring Boot · PostgreSQL
+```
 
-> Every template includes architecture diagrams, deployment guides, and working code.
-> Subscribe at **[crisfon6.beehiiv.com](https://crisfon6.beehiiv.com)** to get them delivered weekly.
-
----
-
-<div align="center">
-
-**I ship FinTech at scale. I build AI automations you can steal. I share everything I learn.**
-
-</div>
+> Technology serves the business. LATAM talent, global problems.
