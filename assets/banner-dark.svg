@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Cristhian Fonseca. Tech Lead, AI Orchestrator.</title>
+  <desc id="d">Profile banner with a code-brackets hexagon mark.</desc>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+  <g font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="64" y="148" font-size="76" font-weight="700" fill="#f8fafc">Cristhian Fonseca</text>
+    <text x="64" y="212" font-size="38" font-weight="600" fill="#60a5fa">Tech Lead · AI Orchestrator</text>
+  </g>
+  <g fill="none" stroke="#60a5fa" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="1030,60 1108,105 1108,195 1030,240 952,195 952,105"/>
+    <polyline points="1012,125 984,150 1012,175"/>
+    <polyline points="1048,125 1076,150 1048,175"/>
+  </g>
+</svg>
