@@ -3,16 +3,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Cristhian Fonseca. Tech Lead, AI Orchestrator." width="100%">
+  <img src="assets/banner-light.svg" alt="Cristhian Fonseca. Tech Lead, AI Orchestrator, LATAM. Anthropic certified, Claude Code in Action. 5+ years in production." width="100%">
 </picture>
 
-**I design multi-agent systems that ship production software, and I make sure the technology serves the business, not the other way around.**
+**I build AI systems that run in production.**
 
-Leading engineering or building with AI agents? **[Work with me](https://crisfon6.com/work-with-me)** · **[Read PowerAI](https://crisfon6.com/newsletter)**
+I start with who it hurts and what it costs. The code comes last.
 
-[![Website](https://img.shields.io/badge/crisfon6.com-334155?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crisfon6.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crisfon6)
-[![PowerAI](https://img.shields.io/badge/PowerAI_newsletter-2563eb?style=for-the-badge)](https://crisfon6.com/newsletter)
+<a href="mailto:crisfon6@crisfon6.com"><img src="assets/cta-hire.svg" alt="Hiring? Email me" height="48"></a>
+
+**[See what I've built →](https://crisfon6.com/projects)** · [Get the latest AI blueprint](https://crisfon6.com/newsletter)
+
+[![crisfon6.com](https://img.shields.io/badge/crisfon6.com-5f5e5a?style=flat-square)](https://crisfon6.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-5f5e5a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/crisfon6)
 
 </div>
 
@@ -21,14 +23,9 @@ Leading engineering or building with AI agents? **[Work with me](https://crisfon
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="33%"><h3>−43%</h3><sub>AWS bill after a cost audit</sub></td>
-    <td align="center" width="33%"><h3>30×</h3><sub>faster export<br>(638K rows in 21 s)</sub></td>
-    <td align="center" width="33%"><h3>5+ years</h3><sub>shipping to production</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><h3>287.89 MB<br>→ 6.98 MB</h3><sub>Redis after an incident fix</sub></td>
-    <td align="center"><h3>83.4%<br>→ 100%</h3><sub>identity match rate</sub></td>
-    <td align="center"><h3>Anthropic certified</h3><sub>Claude Code in Action</sub></td>
+    <td align="center" width="33%"><h3>−43%</h3>AWS spend after a cost audit<br>~$16.8K a year · $3,259 → $1,860 a month<br>(sum of removed line items)</td>
+    <td align="center" width="33%"><h3>21 s</h3>to export 638K rows<br>down from ~28 min</td>
+    <td align="center" width="33%"><h3>17 s</h3>production rollback<br>exercised in prod</td>
   </tr>
 </table>
 </div>
@@ -44,8 +41,8 @@ Leading engineering or building with AI agents? **[Work with me](https://crisfon
     </td>
     <td valign="top" width="50%">
       <h3>Aphrodite <sub>(private)</sub></h3>
-      <b>3,000+ automated tests · 17 s production rollback · ~US$86/month infrastructure.</b><br>
-      AI companion marketplace that fights loneliness with an AI that actually knows each user. Solo founder and tech lead, built with a multi-agent engineering org I designed.
+      <b>Solo founder and tech lead.</b><br>
+      AI companion marketplace that fights loneliness with an AI that actually knows each user. Built with a multi-agent engineering org I designed.
     </td>
   </tr>
 </table>
@@ -58,6 +55,8 @@ Leading engineering or building with AI agents? **[Work with me](https://crisfon
   <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
   <img src="assets/pipeline-light.svg" alt="Adversarial review loop: two blind judges, a synthesizer that confirms findings, a fixer that applies only confirmed defects, repeated until zero confirmed criticals." width="100%">
 </picture>
+<br>
+<sub>Extended from the <a href="https://github.com/Gentleman-Programming/gentle-ai/blob/main/internal/assets/skills/judgment-day/SKILL.md">judgment-day</a> pattern by Gentleman Programming, for unattended loops.</sub>
 </div>
 
 <table>
@@ -68,15 +67,15 @@ Leading engineering or building with AI agents? **[Work with me](https://crisfon
     </td>
     <td valign="top" width="50%">
       <b>MCP over production data</b><br>
-      An MCP server that lets the business query real data. I traced a <b>98.4% undercount</b> and fixed it; 30+ attack shapes tested, 0 leaks.
+      An MCP server that lets the business query real data. I traced a <b>98.4% undercount</b> and fixed it.
     </td>
   </tr>
 </table>
 
 ## Open source
 
-- **Code:** [ai-org-agents](https://github.com/Crisfon6-dev/ai-org-agents) — config-driven AI team (Founder, CTO, Marketer, PO, Coder) with shared Obsidian memory and adaptive model routing.
-- **Code:** [crisfon6-website](https://github.com/Crisfon6-dev/crisfon6-website) — my portfolio: Next.js 16, bilingual, verifiable numbers.
+- **Code:** [ai-org-agents](https://github.com/Crisfon6-dev/ai-org-agents) — config-driven multi-agent AI team (Founder, CTO, Marketer, PO, Coder) with shared memory and adaptive model routing.
+- **Code:** [crisfon6-website](https://github.com/Crisfon6-dev/crisfon6-website) — my portfolio: verifiable production numbers, bilingual EN/ES. Next.js 16 + Tailwind v4.
 
 ## Stack
 
@@ -88,7 +87,7 @@ Leading engineering or building with AI agents? **[Work with me](https://crisfon
 
 <div align="center">
 
-Building something ambitious? **[Let's talk](https://crisfon6.com/work-with-me)**.
+<a href="mailto:crisfon6@crisfon6.com"><img src="assets/cta-hire.svg" alt="Hiring? Email me" height="48"></a>
 
 <sub>Technology serves the business. LATAM talent, global problems.</sub>
 
